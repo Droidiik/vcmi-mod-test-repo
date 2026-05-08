@@ -1,0 +1,10 @@
+{
+	"availableMods": {
+		"magic-tweaks": {
+			"mod": "https://raw.githubusercontent.com/RusMermaid/SpireModH3/refs/heads/main/Whispers%20of%20a%20Meadow/spire/mod.json",
+			"download": "https://github.com/RusMermaid/SpireModH3/archive/refs/heads/main.zip",
+			"downloadSize": 825.0,
+			"githubStars": 0
+		}
+	}
+}
