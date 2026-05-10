@@ -1,9 +1,10 @@
 {
 	"availableMods": {
-		"project-spire": {
-			"mod": "https://raw.githubusercontent.com/RusMermaid/SpireModH3/refs/heads/main/Whispers%20of%20a%20Meadow/spire/mod.json",
-			"download": "https://github.com/RusMermaid/SpireModH3/archive/refs/heads/main.zip",
-			"downloadSize": 825.0,
+		"magic-tweaks": {
+			"mod": "https://raw.githubusercontent.com/Droidiik/magic-tweaks/refs/heads/master/mod.json",
+			"download": "https://github.com/Droidiik/magic-tweaks/releases/download/1.0.1/vcmi-1.7.zip",
+			"descriptionURL": "https://raw.githubusercontent.com/Droidiik/magic-tweaks/refs/heads/master/description.md",
+			"downloadSize": 0.083,
 			"githubStars": 0
 		}
 	}
