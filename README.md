@@ -1,2 +1,5 @@
 # vcmi-test-mod-repo
-Only `magic-tweaks` mod yet.
+```
+https://raw.githubusercontent.com/Droidiik/vcmi-mod-test-repo/refs/heads/main/mods.json
+```
+Only my `magic-tweaks` mod yet.
